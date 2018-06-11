@@ -7,6 +7,7 @@ public class proj1 {
 	System.out.println("i am ready");
 System.out.println("developer ready");
 System.out.println("developer readyffwwqarwe");
+System.out.println("developer readyffwwqarwe");
 	}
 
 }
